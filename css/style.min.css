@@ -1,0 +1,30 @@
+
+
+
+body {
+    color:black;
+    background-color:white;
+    background-image:url(/home/loucky/PortfolioM/Matrix.jpg);
+    }
+
+
+#Image
+img{ display:block; width:auto; margin-left:auto; margin-right: auto;}
+
+footer {position: absolute;bottom: 0; left: 0; right: 0;}
+
+#titreprincipal
+{font-size:40px;
+ text-align: center;
+}
+
+#challenge
+{
+    float:left;
+}
+
+#Coordonnés
+{
+    float:right;
+    
+}
